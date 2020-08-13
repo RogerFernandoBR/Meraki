@@ -2,7 +2,7 @@
 	path = Meraki-API
 	url = git@github.com:RogerFernandoBR/Meraki-API.git
 [submodule "Meraki-Web"]
-	path = Meraki-WEB
+	path = Meraki-Web
 	url = git@github.com:RogerFernandoBR/Meraki-Web.git
 [submodule "Meraki-Mobile"]
 	path = Meraki-Mobile
